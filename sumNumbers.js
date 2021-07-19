@@ -25,4 +25,3 @@ console.log(sumNumbers('5 plus 6 is'), 11);
 console.log(sumNumbers(''), 0);
 
 console.log("Coding complete? Click 'Check' to earn cool rewards!");
-console.log('123')
