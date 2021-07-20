@@ -19,3 +19,4 @@ console.log(beginningZeros('100100'), 0);
 console.log(beginningZeros('001001'), 2);
 console.log(beginningZeros('012345679'), 1);
 console.log(beginningZeros('0000'), 4);
+console.log(beginningZeros('0000'), 4);
