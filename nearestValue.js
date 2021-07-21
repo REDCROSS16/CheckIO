@@ -26,5 +26,5 @@ console.log(nearestValue([4, 7, 10, 11, 12, 17], 9));
 // assert.equal(nearestValue([4, 9, 10, 11, 12, 17], 9), 9);
 // assert.equal(nearestValue([4, 7, 10, 11, 12, 17], 0), 4);
 // assert.equal(nearestValue([4, 7, 10, 11, 12, 17], 100), 17);
-// assert.equal(nearestValue([5, 10, 8, 12, 89, 100], 7), 8);
+console.log(nearestValue([5, 10, 8, 12, 89, 100], 7), 8);
 console.log(nearestValue([-1, 2, 3], 0));
