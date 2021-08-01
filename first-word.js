@@ -1,8 +1,7 @@
-import assert from "assert";
 
-function firstWord(text: string): string {
-    // your code here
-    return '';
+function firstWord(text) {
+    let result = text.slice(' ');
+    return result;
 }
 
 
