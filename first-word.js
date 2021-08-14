@@ -1,7 +1,8 @@
 
 function firstWord(text) {
-    let result = text.slice(' ');
-    return result;
+    let regex = /[a-zA-Z\']+/;
+    var result = text.match(regex);
+    return result[0];
 }
 
 
