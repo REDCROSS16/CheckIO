@@ -1,6 +1,8 @@
 
+// перебираем объект
 function biggerPrice(limit, data) 
 {
+    
     let res = [];
     data.sort((prev,next) => next.price - prev.price);
     for (let i = 0; i < limit; i++) {
